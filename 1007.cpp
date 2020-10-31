@@ -2,7 +2,7 @@
 #include<string>
 #include<vector>
 #include<algorithm>
-using namespace std;
+using namespace std;    
 typedef long long ll;
 int unsortedness(string s)
 {
